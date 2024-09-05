@@ -12,9 +12,9 @@ The NASA Psyche Mission is an orbiter mission to the metal-rich asteroid, Psyche
 | scr | Source code - create as many subdirectories as needed |
 
 ## Project Team
-- *Mentor's Name*  - *Company Affliation* - Mentor
+- *Cassie Bowman*  - *NASA Psyche Mission* - Mentor
 - *Technical Advisor Name* - *Company Affliation* - Technical Advisor
-- *Faculty Advisor's Name* - *Department* - Faculty Advisor
+- *Rodrigo Spinola* - *Computer Science* - Faculty Advisor
 - *Akshara Rajesh* - *Computer Science* - Student Team Member
 - *Ava Shilling* - *Computer Science* - Student Team Member
 - *Quinton Jones* - *Computer Science* - Student Team Member
