@@ -15,7 +15,7 @@ Status Report Template: https://github.com/VCU-CS-Capstone/0000---Capstone-Templ
 | Week 3 Status Report | Meet with advisor | Scheduling a meeting with our sponsor | Time Conflict |
 | Week 4 Status Report | Meet with Sponsor/Brainstorm Project ideas | Github assignment and received information from sponsor | No issues reported! |
 | Week 5 Status Report | Project proposal/Learn unity | Met advisor's technical expert | No Issues reported! |
-| Week 6 Status Report | | | |
+| Week 6 Status Report | Project Proposal Outline | Work on the project proposal Outline | No issues reported! |
 | Week 7 Status Report | | | |
 | Week 8 Status Report | | | |
 | Week 9 Status Report | | | |
