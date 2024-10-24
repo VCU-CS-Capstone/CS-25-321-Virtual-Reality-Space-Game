@@ -18,8 +18,8 @@ Status Report Template: https://github.com/VCU-CS-Capstone/0000---Capstone-Templ
 | Week 6 Status Report | Project Proposal Outline | Work on the project proposal Outline | No issues reported! |
 | Week 7 Status Report | Technical advisor demo on unity/work | Work on the project proposal Outline | No issues reported! |
 | Week 8 Status Report | Talk with our advisor about our proposal | Completed project proposal | No issues reported! |
-| Week 9 Status Report | | | |
-| Week 10 Status Report | | | |
+| Week 9 Status Report | Generate ideas for our game | Experimenting with unity | No issues reported! |
+| Week 10 Status Report | Generate ideas for our game | Finished planning for game room | No issues reported! |
 | Week 11 Status Report | | | |
 | Week 12 Status Report | | | |
 | Week 13 Status Report | | | |
