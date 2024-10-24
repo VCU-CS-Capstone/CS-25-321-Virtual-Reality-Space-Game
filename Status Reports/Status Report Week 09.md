@@ -16,11 +16,11 @@
 
 ## 1. Accomplishments for the week -- and which team members participated/contributed
 
-* Completed our project proposal!
+* Generate ideas for our game
 
 ## 2. Milestones to be completed next week
 
-* Meet with our sponsor and finalize our storyline for our game 
+* Finished planning for game room
 
 ## 3. List of issues, problems, or concern(s)
 * None
