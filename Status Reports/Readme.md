@@ -23,8 +23,8 @@ Status Report Template: https://github.com/VCU-CS-Capstone/0000---Capstone-Templ
 | Week 11 Status Report | Playing games in VR to gather ideas for our game | Gathering ideas from playing games | No issues reported! |
 | Week 12 Status Report | Order our VR headset and case | Brainstorm ideas about fall poster | No issues reported! |
 | Week 13 Status Report | Find assets and music for our game | Complete our fall design poster | No issues reported! |
-| Week 14 Status Report | | | |
-| Week 15 Status Report | | | |
+| Week 14 Status Report | Find music and assets for our game | Emailed the contributor to help us create music for the game | No issues reported! |
+| Week 15 Status Report | Fall Break | Fall Break | Fall Break |
 | Week 16 Status Report | | | |
 
 ## 2nd Semester
