@@ -32,7 +32,7 @@ Status Report Template: https://github.com/VCU-CS-Capstone/0000---Capstone-Templ
 | Document | Tasks | Accomplishments| Issues |
 |---|---|---|---|
 | Week 1 Status Report | Schedule time to meet with advisor to figure out when to start the project | Rendezvous with teammates | No issues reported! |
-| Week 2 Status Report | | | |
+| Week 2 Status Report | Complete the updated team contract | Schedule meetings with advisor | No issues reported! |
 | Week 3 Status Report | | | |
 | Week 4 Status Report | | | |
 | Week 5 Status Report | | | |
