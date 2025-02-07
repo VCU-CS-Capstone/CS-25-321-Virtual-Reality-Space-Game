@@ -33,8 +33,8 @@ Status Report Template: https://github.com/VCU-CS-Capstone/0000---Capstone-Templ
 |---|---|---|---|
 | Week 1 Status Report | Schedule time to meet with advisor to figure out when to start the project | Rendezvous with teammates | No issues reported! |
 | Week 2 Status Report | Complete the updated team contract | Schedule meetings with advisor | No issues reported! |
-| Week 3 Status Report | | | |
-| Week 4 Status Report | | | |
+| Week 3 Status Report | Start designing the room for the game and get github desktop set up | Met with our advisor for the first time this semester | No issues reported! |
+| Week 4 Status Report | Add assets and designs to our desired rooms | Met with our sponsor for the first time and created the menu screen | No issues reported! |
 | Week 5 Status Report | | | |
 | Week 6 Status Report | | | |
 | Week 7 Status Report | | | |
