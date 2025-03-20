@@ -38,9 +38,9 @@ Status Report Template: https://github.com/VCU-CS-Capstone/0000---Capstone-Templ
 | Week 5 Status Report | Work on our specific parts for the game | Finished the menu screen in unity | No issues reported! |
 | Week 6 Status Report | Work on our specific parts for the game | Created another room with interactable objects | No issues reported! |
 | Week 7 Status Report | Work on the rest of the screens for the game | Added functionality to the play button | No issues reported! |
-| Week 8 Status Report | | | |
-| Week 9 Status Report | | | |
-| Week 10 Status Report | | | |
+| Week 8 Status Report | Work on the main gameplay mechanics | Finished some game components | No issues reported! |
+| Week 9 Status Report | Spring Break | Spring Break | Spring Break |
+| Week 10 Status Report | Develop a prototype of the game and work on our expo poster | Finished a main game component | No issues reported! |
 | Week 11 Status Report | | | |
 | Week 12 Status Report | | | |
 | Week 13 Status Report | | | |
