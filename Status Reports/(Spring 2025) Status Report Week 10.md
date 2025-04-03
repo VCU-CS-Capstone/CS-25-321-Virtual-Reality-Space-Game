@@ -1,4 +1,4 @@
-# CS-25-321 - VR Space Game Status Report Week 9 (Spring 2025)
+# CS-25-321 - VR Space Game Status Report Week 10 (Spring 2025)
 
 **Student's Names:**
 
