@@ -43,7 +43,7 @@ Status Report Template: https://github.com/VCU-CS-Capstone/0000---Capstone-Templ
 | Week 10 Status Report | Develop a prototype of the game and work on our expo poster | Finished a main game component | No issues reported! |
 | Week 11 Status Report | Work on EXPO poster and abstract | Completed prototype of the game for sponsor and EXPO poster and abstract | No issues reported! |
 | Week 12 Status Report | Work on project | Completed another minigame for project | No issues reported! |
-| Week 13 Status Report | | | |
-| Week 14 Status Report | | | |
-| Week 15 Status Report | | | |
-| Week 16 Status Report | | | |
+| Week 13 Status Report | Working to get a finished prototype | Finished the main puzzles of the game | No isses reported! |
+| Week 14 Status Report | Getting everything setup for the EXPO | Completed first game prototye | No isses reported! |
+| Week 15 Status Report | Polish the bugs for the final game | Finish the game for the EXPO | No isses reported! |
+| Week 16 Status Report | Complete the final deliverables for the project | Finished all the final deliverables | No isses reported! |
